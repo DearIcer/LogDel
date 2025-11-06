@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "日志删除工具", "日志删除工具\日志删除工具.csproj", "{D0BA2D3F-E3D4-4622-A77D-9B374E0F0F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0BA2D3F-E3D4-4622-A77D-9B374E0F0F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BA2D3F-E3D4-4622-A77D-9B374E0F0F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BA2D3F-E3D4-4622-A77D-9B374E0F0F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BA2D3F-E3D4-4622-A77D-9B374E0F0F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
